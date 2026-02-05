@@ -84,3 +84,11 @@ iframe {
   border-radius: 8px;
   margin-bottom: 12px;
 }
+.container a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.container a:hover {
+  text-decoration: underline;
+}
