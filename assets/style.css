@@ -80,3 +80,7 @@ p{ margin: 10px 0; color: var(--text); }
   color: var(--muted);
   font-size: 0.9rem;
 }
+iframe {
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
